@@ -57,3 +57,30 @@ http://tv.fullytv.com:8080/lisa1/1lisa/7777?checkedby:iptvcat.com
 http://tv.fullytv.com:8080/lisa1/1lisa/7773?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV Globo Premium
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/5310?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT
+http://tv.fullytv.com:8080/lisa1/1lisa/7768?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="Undefined",SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="Undefined",SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT ALTEROSA
+http://168.205.87.198:8555/live/JOSEE/123456/104.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT ALTEROSA
+http://168.205.87.198:8555/live/1111/123456/104.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT ALTEROSA
+http://168.205.87.198:8555/live/leila/123456/104.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT ALTEROSA
+http://168.205.87.198:8555/live/1221/123456/104.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT ALTEROSA
+http://168.205.87.198:8555/live/antony/1234/104.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT ALTEROSA
+http://168.205.87.198:8555/live/michele/123456/104.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT ALTEROSA
+http://168.205.87.198:8555/live/1114/123456/104.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT HD
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/17033?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/IUDRW8l.png" group-title="General",SBT TV Jornal Caruaru (720p) [Not 24/7]
+https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/IUDRW8l.png" group-title="General",SBT TV Jornal Recife (720p) [Not 24/7]
+https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?checkedby:iptvcat.com
+
